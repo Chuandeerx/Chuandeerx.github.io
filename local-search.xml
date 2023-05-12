@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>Hexo音视频部件嵌入测试</title>
+    <link href="/2023/05/12/Hexo%E9%9F%B3%E8%A7%86%E9%A2%91%E9%83%A8%E4%BB%B6%E5%B5%8C%E5%85%A5%E6%B5%8B%E8%AF%95/"/>
+    <url>/2023/05/12/Hexo%E9%9F%B3%E8%A7%86%E9%A2%91%E9%83%A8%E4%BB%B6%E5%B5%8C%E5%85%A5%E6%B5%8B%E8%AF%95/</url>
+    
+    <content type="html"><![CDATA[<h3 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h3><p>哔哩</p><iframe src="https://player.bilibili.com/player.html?aid=570841933&amp;bvid=BV1Pz4y1a7JY&amp;cid=1118040038&amp;page=1" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe><p>Youtube</p><iframe src="https://www.youtube.com/embed/9bFHaWNIDp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe><h3 id="音频"><a href="#音频" class="headerlink" title="音频"></a>音频</h3><p>网易云音乐</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4878606&auto=1&height=66"></iframe><h3 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h3><h4 id="知犀"><a href="#知犀" class="headerlink" title="知犀"></a>知犀</h4><iframe src="https://www.zhixi.com/embed/4a7c53d5" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 4 / 3;"></iframe>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/05/11/202311/hello-world/"/>
     <url>/2023/05/11/202311/hello-world/</url>
