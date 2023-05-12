@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"bbfb228c5acfac67","x":-540,"y":-240,"width":260,"height":80,"type":"file","file":"PCRunBlog.bat.lnk"},
+		{"id":"5db6631db8587849","x":-100,"y":-240,"width":260,"height":80,"type":"file","file":"WebRunBlog.bat.lnk"}
+	],
+	"edges":[
+		{"id":"a7206a282129963b","fromNode":"bbfb228c5acfac67","fromSide":"right","toNode":"5db6631db8587849","toSide":"left"}
+	]
+}
